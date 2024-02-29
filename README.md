@@ -2,9 +2,12 @@
 
 This Flutter app is a comprehensive numerical toolbox implementing various algorithms and methods described in *Numerical Analysis* by Richard L. Burden and J. Douglas Faires. It aims to provide a versatile solution for solving equations and performing complex computations commonly encountered in mathematical and scientific fields.
 
-## Overview
+# Overview
 
 The app covers a wide spectrum of numerical algorithms categorized into different modules, each catering to specific mathematical problems. Users can access these modules through a user-friendly interface, enabling them to input equations or data sets and apply the desired method to obtain accurate solutions.
+
+# Get this app
+- Download the app from [here](https://drive.google.com/file/d/1l5yYl4r9vCLtr1IGMfRnX8rbXqaVC_VV/view?usp=sharing)
 
 # Mockups
 <div style="display: flex; flex-direction: row; overflow-x: auto; white-space: nowrap;">
@@ -17,7 +20,7 @@ The app covers a wide spectrum of numerical algorithms categorized into differen
     <img src="./assets/images/Samsung Galaxy S20+ Screenshot 6.png" width="40%" height="30%" style="padding: 0.5%; flex-shrink: 0;">
 </div>
 
-## Implemented Algorithms
+# Implemented Algorithms
 
 ### Nonlinear Systems
 - **Bisection Method**
