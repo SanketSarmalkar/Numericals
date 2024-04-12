@@ -7,7 +7,7 @@ This Flutter app is a comprehensive numerical toolbox implementing various algor
 The app covers a wide spectrum of numerical algorithms categorized into different modules, each catering to specific mathematical problems. Users can access these modules through a user-friendly interface, enabling them to input equations or data sets and apply the desired method to obtain accurate solutions.
 
 # Get this app
-- Download the app from [here](https://drive.google.com/file/d/1l5yYl4r9vCLtr1IGMfRnX8rbXqaVC_VV/view?usp=sharing)
+- Download the app from [here](https://drive.google.com/file/d/1ebpsJn_3Ek6GayGylGzFDS7GiX264Hmd/view?usp=sharing)
 
 # Mockups
 <div style="display: flex; flex-direction: row; overflow-x: auto; white-space: nowrap;">
