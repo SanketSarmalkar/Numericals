@@ -9,6 +9,12 @@ The app covers a wide spectrum of numerical algorithms categorized into differen
 # Get this app
 - Download the app from [here](https://drive.google.com/file/d/1ebpsJn_3Ek6GayGylGzFDS7GiX264Hmd/view?usp=sharing)
 
+<a href="https://www.amazon.com/gp/product/B0CZY971L3">
+  <img src="./assets/images/5a902ff77f96951c82922876.png" alt="Amazon Product" width="200">
+</a>
+
+
+
 # Mockups
 <div style="display: flex; flex-direction: row; overflow-x: auto; white-space: nowrap;">
     <img src="./assets/images/Samsung Galaxy S20+ Screenshot 0.png" width="40%" height="30%" style="padding: 0.5%; flex-shrink: 0;">
