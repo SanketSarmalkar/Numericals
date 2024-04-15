@@ -10,7 +10,7 @@ The app covers a wide spectrum of numerical algorithms categorized into differen
 - Download the app from [here](https://drive.google.com/file/d/1ebpsJn_3Ek6GayGylGzFDS7GiX264Hmd/view?usp=sharing)
 
 <a href="https://www.amazon.com/gp/product/B0CZY971L3">
-  <img src="./assets/images/5a902ff77f96951c82922876.png" alt="Amazon Product" width="200">
+  <img src="./assets/images/5a902ff77f96951c82922876.png" alt="Amazon Product" width="200" style="padding: 0.5%">
 </a>
 
 
